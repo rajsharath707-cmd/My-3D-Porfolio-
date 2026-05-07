@@ -4,8 +4,8 @@
 
 - **Name**: Sharath Raj
 - **Email**: rajsharath707@gmail.com
-- **Location**: [Your Location]
-- **Phone**: [Your Phone Number]
+- **Location**: New Delhi
+- **Phone**: 8448311723
 
 ## Professional Summary
 
@@ -35,4 +35,3 @@ Blending real-world customer experience with a passion for digital growth, I am 
 - Digital Marketing Trends
 - Entrepreneurship
 
-**Last Updated**: 2026-05-04
